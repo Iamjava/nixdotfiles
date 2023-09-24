@@ -1,0 +1,1 @@
+/home/jan/.local/share/omf/themes/johanson/fish_prompt.fish

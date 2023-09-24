@@ -1,0 +1,31 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="1" l="1695577207411" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1695577163114" />
+    </e>
+    <e n="Tree-selectChild">
+      <i c="1" l="1695577158305" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="1" l="1695577155796" />
+    </e>
+    <e n="Tree-selectParent">
+      <i c="1" l="1695577157417" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="1" l="1695577156224" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1695577106581" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1695468733338" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="1" l="1695577116010" />
+    </e>
+  </component>
+</application>

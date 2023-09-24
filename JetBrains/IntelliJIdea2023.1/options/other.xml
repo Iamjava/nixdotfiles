@@ -1,0 +1,53 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "NewProjectWizard.addSampleCodeState": "true",
+    "NextRunPlatformUpdateBuild": "IU-231.9392.1",
+    "NextRunPlatformUpdateVersion": "2023.1.5",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "IU-231.9011.34-cd73595c599c0387245713f3c4c556bde2ce06e8f088aae3379c6b5974b6c199",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "IU-231.9011.34",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "JavaScript",
+    "defaultJdkConfigured": "true",
+    "evlsprt3.231": "26",
+    "experimental.ui.first.promotion.localdate": "2023-09-23",
+    "experimental.ui.used.once": "true",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "gotit.previous.run": "IU-231.9011.34",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "231-1.8.21-IJ9011.34",
+    "jdk.selected.JAVA_MODULE": "17",
+    "migrate.android.sdk.path.to.roamable.storage": "false",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "project.wizard.group": "NPW.simple-project",
+    "registry.to.advanced.settings.migration.build": "IU-231.9011.34",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.8.4"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

@@ -1,0 +1,55 @@
+2023-09-24 10:13:00.975 [info] Extension host with pid 6236 started
+2023-09-24 10:13:00.975 [info] Skipping acquiring lock for /home/jan/.config/Code/User/workspaceStorage/01e0512089e5becc1814ec02b0e8e659.
+2023-09-24 10:13:01.383 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-09-24 10:13:01.716 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-09-24 10:13:01.743 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-24 10:13:01.754 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-09-24 10:13:01.809 [info] Eager extensions activated
+2023-09-24 10:13:01.939 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-24 10:13:01.947 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-24 10:25:04.932 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-09-24 10:25:05.457 [warning] [Decorations] CAPPING events from decorations provider vscode.git 363
+2023-09-24 10:25:05.743 [warning] [Decorations] CAPPING events from decorations provider vscode.git 363
+2023-09-24 10:25:07.409 [warning] [Decorations] CAPPING events from decorations provider vscode.git 363
+2023-09-24 10:29:26.634 [warning] [Decorations] CAPPING events from decorations provider vscode.git 363
+2023-09-24 10:34:58.319 [warning] [Decorations] CAPPING events from decorations provider vscode.git 363
+2023-09-24 10:35:03.392 [warning] [Decorations] CAPPING events from decorations provider vscode.git 363
+2023-09-24 10:35:30.903 [warning] [Decorations] CAPPING events from decorations provider vscode.git 363
+2023-09-24 10:35:38.766 [warning] [Decorations] CAPPING events from decorations provider vscode.git 363
+2023-09-24 11:17:29.480 [warning] [Decorations] CAPPING events from decorations provider vscode.git 363
+2023-09-24 11:17:32.668 [info] Extension host terminating: renderer closed the MessagePort
+2023-09-24 11:17:32.697 [error] Canceled: Canceled
+	at new l (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:104563)
+	at a.O (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:11657)
+	at H.<computed>.V.charCodeAt.H.<computed> (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:8947)
+	at e.ExtHostCommands.g (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124729)
+	at e.ExtHostCommands.executeCommand (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124105)
+	at C.registerCommand.description (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:123398)
+	at e.ExtHostCommands.h (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:125315)
+	at e.ExtHostCommands.g (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124205)
+	at e.ExtHostCommands.executeCommand (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124105)
+	at Object.executeCommand (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:24043)
+	at D (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/extensions/git/dist/main.js:2:1259661)
+	at v.invoke (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at Object.m [as dispose] (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/extensions/git/dist/main.js:2:1274494)
+	at /nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/extensions/git/dist/main.js:2:1278940
+	at Array.forEach (<anonymous>)
+	at g.dispose (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/extensions/git/dist/main.js:2:1278926)
+	at t.<anonymous> (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:12369)
+	at t.dispose (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:12504)
+	at t.<anonymous> (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/extensions/git/dist/main.js:2:1261791)
+	at t.dispose (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:12504)
+	at T (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:12080)
+	at v.Y (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:11173)
+	at /nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9157
+	at Array.map (<anonymous>)
+	at v.R (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9144)
+	at v.terminate (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9415)
+	at d.terminate (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at g (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at MessagePortMain.<anonymous> (/nix/store/rnsdfhiwcq5yrx8rpkf0zik0gs0dhya8-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:30578)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-09-24 11:17:32.698 [info] Extension host with pid 6236 exiting with code 0
