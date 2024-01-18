@@ -1,0 +1,8 @@
+2024/01/17-19:21:13.189 4d2d Reusing MANIFEST /home/jan/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/01/17-19:21:13.189 4d2d Recovering log #7
+2024/01/17-19:21:13.200 4d2d Level-0 table #10: started
+2024/01/17-19:21:13.215 4d2d Level-0 table #10: 717026 bytes OK
+2024/01/17-19:21:13.217 4d2d Delete type=0 #7
+2024/01/17-19:28:39.972 56d3 Level-0 table #13: started
+2024/01/17-19:28:39.992 56d3 Level-0 table #13: 717789 bytes OK
+2024/01/17-19:28:39.994 56d3 Delete type=0 #11
